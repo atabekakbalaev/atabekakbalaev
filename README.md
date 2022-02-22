@@ -1,5 +1,5 @@
 # Hi there, I'm Atabek - aka [Excellent Nomad](https://www.youtube.com/channel/UC74yLd2F1oKiy9V8VaqgawA) 👋 
-
+[YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC74yLd2F1oKiy9V8VaqgawA?logo=youtube&logoColor=red&style=for-the-badge)
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🌱 I’m currently learning salesforce and everything 🤣
@@ -29,7 +29,5 @@
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="atabekakbalaev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=atabekakbalaev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<br />
-<br />
-[YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC74yLd2F1oKiy9V8VaqgawA?logo=youtube&logoColor=red&style=for-the-badge)
+
 
