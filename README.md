@@ -1,4 +1,4 @@
-# Hi there, I'm Atabek - aka [Excellent Nomad][youtube] 👋 
+# Hi there, I'm Atabek - aka [Excellent Nomad](https://www.youtube.com/channel/UC74yLd2F1oKiy9V8VaqgawA) 👋 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
