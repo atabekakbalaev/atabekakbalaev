@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning fullstack web development and salesforce 🤣
 - 🥅 2022 Goals: Learn more about salesforce and java stuff
+- U+1F5B3 My main programming language is <img align="left" alt="Java" width="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 - ⚡ Fun fact: I love to play table tennis, go out biking and hiking
 
 ### Languages and Tools:
