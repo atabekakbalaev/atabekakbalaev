@@ -1,5 +1,6 @@
 # Hi there, I'm Atabek - aka [Excellent Nomad](https://www.youtube.com/channel/UC74yLd2F1oKiy9V8VaqgawA) 👋 
 [YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC74yLd2F1oKiy9V8VaqgawA?logo=youtube&logoColor=red&style=for-the-badge)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🌱 I’m currently learning salesforce and everything 🤣
