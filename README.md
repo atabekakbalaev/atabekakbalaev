@@ -1,6 +1,6 @@
 # Hi there, I'm Atabek - aka [excellentnomad](https://www.youtube.com/channel/UC74yLd2F1oKiy9V8VaqgawA) 👋 
   
-[I participated in the competition.](https://github.com/techproeducationgit)
+TechProEd: [I participated in the competition.](https://github.com/techproeducationgit)
 <br>
 <br>
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC74yLd2F1oKiy9V8VaqgawA?logo=youtube&logoColor=red&style=for-the-badge)
