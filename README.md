@@ -6,7 +6,7 @@ TechProEd: [I participated in the competition.](https://github.com/techproeducat
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC74yLd2F1oKiy9V8VaqgawA?logo=youtube&logoColor=red&style=for-the-badge)
   
 ## I'm a Husband, Father, Developer, and Teacher!!
-- 🌱 I’m currently learning fullstack web development and salesforce 🤣
+- 🌱 I’m currently working on fullstack web development and salesforce 🤣
 - 🥅 2022 Goals: Learn more about salesforce and java stuff
 - 👨‍💻 My main programming language is Java
 - ⚡ Fun fact: I love to play table tennis, go out biking and hiking
